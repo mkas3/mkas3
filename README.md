@@ -1,8 +1,8 @@
 # mkas3 [![github](./public//github.svg)](https://github.com/mkas3)
 
 <div style="display: grid; grid-template-columns: repeat(2, auto); justify-content: space-around; overflow: hidden; width: 100%;">
-<video style="width: auto; max-height: 400px;" src="./public/cat.webm" autoplay loop muted></video>
-<video style="width: auto; max-height: 400px;" src="./public/cat.webm" autoplay loop muted></video>
+<img style="width: auto; max-height: 400px;" src="./public/cat.gif" />
+<img style="width: auto; max-height: 400px;" src="./public/cat.gif" />
 </div>
 
 Frontend разработчик на TypeScript, фанат React и Next.js.
