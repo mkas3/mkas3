@@ -1,9 +1,7 @@
 # mkas3 [![github](./public//github.svg)](https://github.com/mkas3)
 
-<div style="display: grid; grid-template-columns: repeat(2, auto); justify-content: space-around; overflow: hidden; width: 100%;">
-<img style="width: auto; max-height: 400px;" src="./public/cat.gif" />
-<img style="width: auto; max-height: 400px;" src="./public/cat.gif" />
-</div>
+<img style="display: inline; max-height: 400px; object-fit: cover; width: 49.5%;" src="./public/cat.gif" />
+<img style="display: inline; max-height: 400px; object-fit: cover; width: 49.5%;" src="./public/cat.gif" />
 
 Frontend разработчик на TypeScript, фанат React и Next.js.
 
