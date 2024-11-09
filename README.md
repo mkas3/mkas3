@@ -1,7 +1,6 @@
 # mkas3 [![github](./public//github.svg)](https://github.com/mkas3)
 
-<img style="display: inline; max-height: 400px; object-fit: cover; width: 49.5%;" src="./public/cat.gif" />
-<img style="display: inline; max-height: 400px; object-fit: cover; width: 49.5%;" src="./public/cat.gif" />
+![cat](./public/cat.gif)
 
 Frontend разработчик на TypeScript, фанат React и Next.js.
 
